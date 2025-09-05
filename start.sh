@@ -1,2 +1,4 @@
 #!/bin/bash
-python video-pdf-html_bot.py
+#!/bin/bash
+pip install -r requirements.txt
+python3 video-pdf-html_bot.py
